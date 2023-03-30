@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9E32B6B3-1F02-46FA-866E-2B535EE9961B"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F57D354E-732B-4BEA-9B12-9C94E6E370E9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemoFirebase/RemoteConfigManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "fetchValues(key:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F57D354E-732B-4BEA-9B12-9C94E6E370E9 - 86415b99282b9581"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DemoFirebase.RemoteConfigManager.fetchValues(key: Swift.String, completion: (Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "DemoFirebase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fuji/Desktop/DemoFirebase/DemoFirebase/RemoteConfigManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "241">
+               </Location>
+               <Location
+                  uuid = "F57D354E-732B-4BEA-9B12-9C94E6E370E9 - cde25b069f12df88"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.FIRRemoteConfigFetchStatus, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in DemoFirebase.RemoteConfigManager.fetchValues(key: Swift.String, completion: (Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "DemoFirebase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fuji/Desktop/DemoFirebase/DemoFirebase/RemoteConfigManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "223">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9A1711C8-BCAF-47D4-B456-D524A4EF64E0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemoFirebase/RemoteConfigManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "fetchValues(key:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "174CF20A-08D8-4583-9954-A2FC43B3CB90"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemoFirebase/RemoteConfigManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "fetchValues(key:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "174CF20A-08D8-4583-9954-A2FC43B3CB90 - acdbb024000a2952"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (__C.FIRRemoteConfigFetchStatus, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in DemoFirebase.RemoteConfigManager.fetchValues(key: Swift.String, completion: (Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "DemoFirebase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fuji/Desktop/DemoFirebase/DemoFirebase/RemoteConfigManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "294">
+               </Location>
+               <Location
+                  uuid = "174CF20A-08D8-4583-9954-A2FC43B3CB90 - acdbb024000a2952"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (__C.FIRRemoteConfigFetchStatus, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in DemoFirebase.RemoteConfigManager.fetchValues(key: Swift.String, completion: (Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "DemoFirebase"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fuji/Desktop/DemoFirebase/DemoFirebase/RemoteConfigManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "476">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5735E0B9-9A1C-4265-8F0E-4B68667C41CF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemoFirebase/RemoteConfigManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "fetchValues(key:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3D376814-8C86-4553-AF65-AC3FE9DC1A24"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DemoFirebase/RemoteConfigManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "getValueString(fromKey:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
